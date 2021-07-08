@@ -723,6 +723,7 @@ p#noting_PARA_01 {
 .our_reci_show .our_single_reci_show img {
     width: 153px !important;
 }
+
 section.carousel_section {
     background: #e7e7e7;
     padding: 22px;
@@ -765,6 +766,7 @@ section.carousel_section {
     margin: 3px 12px;
     color: #7e7e7e;
 }
+
 .event_cate_single_img {
     overflow: hidden;
     position: relative;
@@ -773,8 +775,9 @@ section.carousel_section {
 
 .event_cate_single_img img:hover {
     transform: scale(1.5);
-    
+
 }
+
 .event_date {
     position: absolute;
     top: 6%;
@@ -791,6 +794,76 @@ section.carousel_section {
     text-align: center;
     margin-top: 3px;
 }
+
 .event_cate_single {
     margin: 0px 0px 50px 0px;
+}
+
+
+
+
+
+
+.admin_Img img {
+    width: 170px !important;
+}
+
+.admin_Img {
+    text-align: center;
+    margin: 120px 303px;
+}
+
+.admin_Img img {
+    width: 129px !important;
+    border-radius: 50%;
+}
+
+.admin_Img {
+    text-align: center;
+    margin: 120px 350px 44px;
+    border-radius: 35px;
+}
+
+section.our_All_administrator {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.admin_desc h2 {
+    text-align: center;
+    color: #d8d8d8;
+}
+
+.admin_desc {
+    text-align: center;
+}
+
+.admin_desc h4 {
+    color: #ffffff;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.admin_name {
+    text-align: center;
+    margin: 20px 0px 21px 0px;
+}
+
+.admin_name h4 {
+    color: #e6e6e6;
+    font-family: 'Oswald';
+    text-transform: uppercase;
+}
+
+
+/* 
+nav bar dots */
+.owl-theme .owl-dots .owl-dot.active span{
+    background: #fff !important;
+    border: 1px solid #dddd;
+}
+.owl-dots span {
+    background: none !important;
+    border: 1px solid #dddd;
 }

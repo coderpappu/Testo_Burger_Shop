@@ -856,6 +856,15 @@ section.our_All_administrator {
     text-transform: uppercase;
 }
 
+.admin_star {
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.admin_star .five_star_rate i {
+    color: #ffc800;
+}
 
 /* 
 nav bar dots */
@@ -867,3 +876,4 @@ nav bar dots */
     background: none !important;
     border: 1px solid #dddd;
 }
+

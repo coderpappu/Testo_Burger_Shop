@@ -23,7 +23,7 @@ $('.owl-carousel').owlCarousel({
 $('.our_admin_carousel').owlCarousel({
     loop:true,
     margin:10,
-    autoplay : true,
+    autoplay : false,
     smartSpeed : 400,
     autoplaySpeed: 1000,
     responsiveClass:true,
